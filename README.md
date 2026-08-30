@@ -58,7 +58,9 @@
 </h3>
 
 <p align="center">
-  A lightweight Minecraft Bedrock backup utility designed to automatically create organised, timestamped copies of your worlds—helping protect your progress and making it easy to recover your saves whenever you need them.
+  A lightweight Minecraft Bedrock backup utility designed to automatically create<br/>
+  organised, timestamped copies of your worlds—helping protect your progress and<br/>
+  making it easy to recover your saves whenever you need them.
 </p>
 
 <p align="center">
