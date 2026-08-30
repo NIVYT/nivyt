@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7c3aed,100:0d0a1a&height=160&section=header&text=NIVYT&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=35" width="100%">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7c3aed,100:0d0a1a&height=160&section=header" width="100%">
 </p>
 
 <p align="center">
@@ -30,25 +30,9 @@
 <h3 align="center">BedrockCapsule</h3>
 
 <p align="center">
-  Automated Minecraft Bedrock world backups with Discord logs and timestamped recovery.
+  Automatically backs up your Minecraft Bedrock worlds and keeps your saves protected with organised, timestamped recovery points — so you can experiment, play, and build without worrying about losing your progress.
 </p>
 
 <p align="center">
-  <a href="https://github.com/NIVYT/BedrockCapsule">
-    <img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="View Repository">
-  </a>
-</p>
-
-<br>
-
-<h3 align="center">🌐 Connect</h3>
-
-<p align="center">
-  <a href="https://discord.com/users/realnivyt">
-    <img src="https://img.shields.io/badge/Discord-realnivyt-5865F2?style=for-the-badge&amp;logo=discord&amp;logoColor=white" alt="Discord">
-  </a>
-</p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0d0a1a,100:7c3aed&amp;height=120&amp;section=footer" width="100%">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0a1a,100:7c3aed&height=120&section=footer" width="100%">
 </p>
