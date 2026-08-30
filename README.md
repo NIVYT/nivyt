@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a0f2e,100:7c3aed&height=220&section=header&text=Nived%20Thakor&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Developer%20Behind%20NIVYT&descAlignY=55&descSize=20" width="100%"/>
+![NIVYT](https://nivyt.pages.dev/nivyt_logo_white.png)
 
 <br/>
 
