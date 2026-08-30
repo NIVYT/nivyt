@@ -13,15 +13,22 @@
 
 <br>
 
-<h3 align="center">🛠️ Tech Stack & Systems</h3>
+<h3 align="center">
+  <img src="https://www.svgrepo.com/show/452091/code.svg" width="22" height="22" alt="">
+  &nbsp;Tech Stack & Systems
+</h3>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=py,js,html,css,cs,java,windows,git&amp;theme=dark" alt="Tech Stack">
+  <img src="https://skillicons.dev/icons?i=py,js,html,css,cs,java,windows,git&theme=dark&perline=8"
+       alt="Python, JavaScript, HTML, CSS, C#, Java, Windows and Git">
 </p>
 
 <br>
 
-<h3 align="center">🚀 Featured Project</h3>
+<h3 align="center">
+  <img src="https://www.svgrepo.com/show/532022/rocket.svg" width="22" height="22" alt="">
+  &nbsp;Featured Project
+</h3>
 
 <p align="center">
   <img src="https://cdn.corenexis.com/f/XChSpIe5bKL.png" width="100" alt="BedrockCapsule">
@@ -30,7 +37,9 @@
 <h3 align="center">BedrockCapsule</h3>
 
 <p align="center">
-  Automatically backs up your Minecraft Bedrock worlds and keeps your saves protected with organised, timestamped recovery points — so you can experiment, play, and build without worrying about losing your progress.
+  A lightweight backup solution for Minecraft Bedrock that automatically creates organised,
+  timestamped world backups—helping protect your progress and making it easy to restore your
+  worlds whenever you need to.
 </p>
 
 <p align="center">
