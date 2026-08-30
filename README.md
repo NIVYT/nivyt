@@ -14,20 +14,27 @@
 <br>
 
 <h3 align="center">
-  <img src="https://www.svgrepo.com/show/452091/code.svg" width="22" height="22" alt="">
-  &nbsp;Tech Stack & Systems
+  <img src="https://cdn.jsdelivr.net/npm/lucide-static@latest/icons/code-xml.svg"
+       width="22"
+       height="22"
+       alt=""
+       valign="middle">
+  Tech Stack &amp; Systems
 </h3>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=py,js,html,css,cs,java,windows,git&theme=dark&perline=8"
-       alt="Python, JavaScript, HTML, CSS, C#, Java, Windows and Git">
+  <img src="https://skillicons.dev/icons?i=py,js,html,css,cs,java,windows,git&amp;theme=dark" alt="Tech Stack">
 </p>
 
 <br>
 
 <h3 align="center">
-  <img src="https://www.svgrepo.com/show/532022/rocket.svg" width="22" height="22" alt="">
-  &nbsp;Featured Project
+  <img src="https://cdn.jsdelivr.net/npm/lucide-static@latest/icons/rocket.svg"
+       width="22"
+       height="22"
+       alt=""
+       valign="middle">
+  Featured Project
 </h3>
 
 <p align="center">
@@ -37,9 +44,7 @@
 <h3 align="center">BedrockCapsule</h3>
 
 <p align="center">
-  A lightweight backup solution for Minecraft Bedrock that automatically creates organised,
-  timestamped world backups—helping protect your progress and making it easy to restore your
-  worlds whenever you need to.
+  Automatically backs up your Minecraft Bedrock worlds and creates organised, timestamped recovery points, helping keep your progress protected and making it easy to restore your worlds when needed.
 </p>
 
 <p align="center">
