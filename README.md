@@ -1,58 +1,52 @@
-<div align="center">
+<p align="center">
+  <img src="https://nivyt.pages.dev/nivyt_logo_white.png" width="220" alt="NIVYT">
+</p>
 
-<img src="https://nivyt.pages.dev/nivyt_logo_white.png" width="260" alt="NIVYT"/>
+<p align="center">
+  <b>Hey, I'm Nived — I build lightweight, standalone Windows tools and Minecraft utilities.</b><br>
+  No bloatware, no telemetry trackers — just clean executables that do their job silently.
+</p>
 
-<br/><br/>
+<p align="center">
+  ─────────────────────────
+</p>
 
-**Hey, I'm Nived — I build lightweight, standalone Windows tools and Minecraft utilities.**  
-No bloatware, no telemetry trackers — just clean executables that do their job silently.
+<h3 align="center">🛠️ Tech Stack & Systems</h3>
 
-<br/>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=py,js,html,css,cs,java,windows,git&amp;theme=dark" alt="Tech Stack">
+</p>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1a0f2e,100:7c3aed&height=3&width=400" width="400"/>
+<br>
 
-<br/>
+<h3 align="center">🚀 Featured Project</h3>
 
-### 🛠️ Tech Stack & Systems
+<p align="center">
+  <img src="https://cdn.corenexis.com/f/XChSpIe5bKL.png" width="100" alt="BedrockCapsule">
+</p>
 
-<img src="https://skillicons.dev/icons?i=py,js,html,css,cs,java,windows,git&theme=dark" />
+<h3 align="center">BedrockCapsule</h3>
 
-<br/><br/>
+<p align="center">
+  Automated Minecraft Bedrock world backups with Discord logs and timestamped recovery.
+</p>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1a0f2e,100:7c3aed&height=3&width=400" width="400"/>
+<p align="center">
+  <a href="https://github.com/NIVYT/BedrockCapsule">
+    <img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="View Repository">
+  </a>
+</p>
 
-<br/>
+<br>
 
-### 🚀 Featured Project
+<h3 align="center">🌐 Connect</h3>
 
-<br/>
+<p align="center">
+  <a href="https://discord.com/users/realnivyt">
+    <img src="https://img.shields.io/badge/Discord-realnivyt-5865F2?style=for-the-badge&amp;logo=discord&amp;logoColor=white" alt="Discord">
+  </a>
+</p>
 
-<img src="https://cdn.corenexis.com/f/XChSpIe5bKL.png" width="110"/>
-
-<br/><br/>
-
-<b>BedrockCapsule</b>
-
-<p width="400">Automated Minecraft Bedrock world backups with Discord logs & timestamped recovery.</p>
-
-<br/>
-
-<a href="https://github.com/NIVYT/BedrockCapsule"><img src="https://img.shields.io/badge/View%20Repository-0d1117?style=for-the-badge&logo=github&logoColor=white" /></a>
-
-<br/><br/>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1a0f2e,100:7c3aed&height=3&width=400" width="400"/>
-
-<br/>
-
-### 🌐 Connect
-
-<a href="https://discord.com/users/realnivyt">
-  <img src="https://img.shields.io/badge/Discord-realnivyt-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
-</a>
-
-<br/><br/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7c3aed,100:0d0a1a&height=120&section=footer" width="100%"/>
-
-</div>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:7c3aed,100:0d0a1a&amp;height=100&amp;section=footer" width="100%">
+</p>
