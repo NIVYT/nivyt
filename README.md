@@ -1,4 +1,8 @@
 <p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7c3aed,100:0d0a1a&height=160&section=header&text=NIVYT&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=35" width="100%">
+</p>
+
+<p align="center">
   <img src="https://nivyt.pages.dev/nivyt_logo_white.png" width="220" alt="NIVYT">
 </p>
 
@@ -7,9 +11,7 @@
   No bloatware, no telemetry trackers — just clean executables that do their job silently.
 </p>
 
-<p align="center">
-  ─────────────────────────
-</p>
+<br>
 
 <h3 align="center">🛠️ Tech Stack & Systems</h3>
 
@@ -48,5 +50,5 @@
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:7c3aed,100:0d0a1a&amp;height=100&amp;section=footer" width="100%">
+  <img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0d0a1a,100:7c3aed&amp;height=120&amp;section=footer" width="100%">
 </p>
