@@ -1,68 +1,41 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:d946ef&height=200&section=header&text=Nived&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Windows%20Developer&descAlignY=55&descSize=20" width="100%"/>
-
-</div>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a0f2e,100:7c3aed&height=220&section=header&text=Nived%20Thakor&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Developer%20Behind%20NIVYT&descAlignY=55&descSize=20" width="100%"/>
 
 <br/>
 
-<div align="center">
-
-### Tech Stack
-
-<img src="https://skillicons.dev/icons?i=cs,py,html,js,windows,git&theme=dark" />
-
-</div>
+**Hey, I'm Nived — I build lightweight, standalone Windows tools and Minecraft utilities.**  
+No bloatware, no telemetry trackers — just clean executables that do their job silently.
 
 <br/>
 
-<div align="center">
+### 🛠️ Tech Stack & Systems
 
-### Featured Projects
-
-</div>
-
-<table width="100%">
-<tr>
-<td width="50%" valign="top">
-
-<div align="center">
+<img src="https://skillicons.dev/icons?i=py,js,html,css,cs,java,windows,git&theme=dark" />
 
 <br/>
+
+### 🚀 Featured Project
+
+<br/>
+
 <img src="https://cdn.corenexis.com/f/XChSpIe5bKL.png" width="110"/>
+<br/><br/>
+<b>BedrockCapsule</b><br/>
+<p style="font-size: 14px;">Automated Minecraft Bedrock world backups with Discord logs & timestamped recovery.</p>
+<br/>
+<a href="https://github.com/NIVYT/BedrockCapsule"><img src="https://img.shields.io/badge/View%20Repository-0d1117?style=for-the-badge&logo=github&logoColor=white" /></a>
+
+<br/><br/><br/>
+
+### 🌐 Connect
+
+<a href="https://discord.com/users/realnivyt">
+  <img src="https://img.shields.io/badge/Discord-realnivyt-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
+</a>
 
 <br/><br/>
 
-**NIVYT Backup Copilot**
-
-Free Windows tool for automatic Minecraft Bedrock world backups.
-
-[![Repo](https://img.shields.io/badge/View%20Repository-0d1117?style=for-the-badge&logo=github&logoColor=white)](https://github.com/velyrixon/NIVYT_Backup_Copilot)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7c3aed,100:0d0a1a&height=120&section=footer" width="100%"/>
 
 </div>
-
-</td>
-<td width="50%" valign="top">
-
-<div align="center">
-
-<br/>
-<img src="https://cdn.corenexis.com/f/ogjUpXq8ju0.png" width="110"/>
-
-<br/><br/>
-
-**NIVYT GameWeaver**
-
-Lightweight Windows app that spoofs game activity and Discord Rich Presence for 9,000+ titles.
-
-[![Repo](https://img.shields.io/badge/View%20Repository-0d1117?style=for-the-badge&logo=github&logoColor=white)](https://github.com/velyrixon/NIVYT_Gameweaver)
-
-</div>
-
-</td>
-</tr>
-</table>
-
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:d946ef,100:0d1117&height=100&section=footer" width="100%"/>
