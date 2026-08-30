@@ -1,75 +1,81 @@
 <p align="center">
-  <img
+  <img 
     src="https://capsule-render.vercel.app/api?type=waving&color=0:7c3aed,100:0d0a1a&height=160&section=header"
     width="100%"
-    alt=""
-  >
+  />
 </p>
 
 <p align="center">
-  <img
+  <img 
     src="https://nivyt.pages.dev/nivyt_logo_white.png"
     width="220"
     alt="NIVYT"
-  >
+  />
 </p>
 
 <p align="center">
-  <b>Hey, I'm Nived — I build lightweight, standalone Windows tools and Minecraft utilities.</b><br>
-  No bloatware. No telemetry. Just clean software that does its job.
+  <b>Hey, I'm Nived — I build lightweight, standalone Windows tools and Minecraft utilities.</b>
+  <br/>
+  No bloatware. No unnecessary background services. Just clean tools that do their job.
 </p>
 
-<br>
+<br/>
 
 <h3 align="center">
-  <img
-    src="https://api.iconify.design/lucide:wrench.svg?color=%237c3aed"
-    width="22"
-    height="22"
-    alt=""
-  >
-  Tech Stack &amp; Systems
+  ⚙️ Tech Stack & Systems
 </h3>
 
 <p align="center">
-  <img
-    src="https://skillicons.dev/icons?i=py,js,html,css,cs,java,windows,git&theme=dark"
-    alt="Python, JavaScript, HTML, CSS, C Sharp, Java, Windows and Git"
-  >
+
+  <img src="https://img.shields.io/badge/Python-161b22?style=for-the-badge&logo=python&logoColor=7c3aed" />
+
+  <img src="https://img.shields.io/badge/JavaScript-161b22?style=for-the-badge&logo=javascript&logoColor=7c3aed" />
+
+  <img src="https://img.shields.io/badge/HTML5-161b22?style=for-the-badge&logo=html5&logoColor=7c3aed" />
+
+  <img src="https://img.shields.io/badge/CSS3-161b22?style=for-the-badge&logo=css3&logoColor=7c3aed" />
+
 </p>
 
-<br>
+<p align="center">
+
+  <img src="https://img.shields.io/badge/C%23-161b22?style=for-the-badge&logo=dotnet&logoColor=7c3aed" />
+
+  <img src="https://img.shields.io/badge/Java-161b22?style=for-the-badge&logo=openjdk&logoColor=7c3aed" />
+
+  <img src="https://img.shields.io/badge/Windows-161b22?style=for-the-badge&logo=windows&logoColor=7c3aed" />
+
+  <img src="https://img.shields.io/badge/Git-161b22?style=for-the-badge&logo=git&logoColor=7c3aed" />
+
+</p>
+
+<br/>
 
 <h3 align="center">
-  <img
-    src="https://api.iconify.design/lucide:rocket.svg?color=%237c3aed"
-    width="22"
-    height="22"
-    alt=""
-  >
-  Featured Project
+  🚀 Featured Project
 </h3>
 
 <p align="center">
-  <img
+  <img 
     src="https://cdn.corenexis.com/f/XChSpIe5bKL.png"
-    width="105"
+    width="100"
     alt="BedrockCapsule"
-  >
+  />
 </p>
 
-<h3 align="center">BedrockCapsule</h3>
+<h3 align="center">
+  BedrockCapsule
+</h3>
 
 <p align="center">
-  A lightweight Minecraft Bedrock backup utility that automatically creates organised,
-  timestamped recovery points for your worlds — helping keep your progress protected
-  and making it easy to restore your saves whenever needed.
+  A lightweight backup utility built for Minecraft Bedrock that automatically creates
+  organised, timestamped backups of your worlds—helping protect your progress and
+  making recovery simple when you need it.
 </p>
 
 <p align="center">
-  <img
+  <img 
     src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0a1a,100:7c3aed&height=120&section=footer"
     width="100%"
-    alt=""
-  >
+  />
 </p>
