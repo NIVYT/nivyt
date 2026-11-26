@@ -39,20 +39,6 @@
   <img src="https://cdn.simpleicons.org/git/e5e7eb" width="42" height="42" alt="Git" />
 </p>
 
-<br/>
-
-<h3 align="center">
-  Featured Project
-</h3>
-
-<p align="center">
-  <img 
-    src="https://cdn.corenexis.com/f/XChSpIe5bKL.png"
-    width="100"
-    alt="BedrockCapsule"
-  />
-</p>
-
 <h3 align="center">
   BedrockCapsule
 </h3>
